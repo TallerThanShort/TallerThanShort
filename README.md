@@ -10,3 +10,8 @@
 - 🐦 [Blu Bird App](https://twitter.com/TallrThanShort)
 - 🗨 [Blurple Chat App](https://discord.com/invite/Hf3ECU7DRv)
 - 🕳 [Crispy](https://crispychat.tech/app)
+
+#### Stats that some people ask for
+
+[![Sosages](https://github-readme-stats.vercel.app/api/?username=TallerThanShort&theme=dracula&count_private=true)](https://github.com/TallerThanShort)
+[![also sosages](https://github-readme-stats.vercel.app/api/top-langs/?username=TallerThanShort&theme=dracula&layout=default)](https://github.com/TallerThanShort?tab=repositories)
