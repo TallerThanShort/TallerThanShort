@@ -1,6 +1,12 @@
-- 👋 Hi, I’m [@TallerThanShort](https://github.com/TallerThanShort)
+# 👋 Hi, I’m [TallerThanShort](https://github.com/TallerThanShort)
 - 👀 I’m interested in learning new things
-- ○ I like to code random things in C languages
-- 💥 I make Dynamic Sites sometimes ig
-- I am not a coder or programmer or developer. Just a guy who does things for fun.
-- more [about me](https://TallerThanShort.github.io/about-me)
+- **I am not** a coder, programmer, developer or anything specific. Just a guy who does things (like coding random garbage) for fun.
+- more [about me](https://TallerThanShort.is-a.dev)
+- read [me blog](https://tallerthanshort.github.io)
+
+## Where you can find me:
+- 💬 [**Revolt**](https://app.revolt.chat/invite/E1GKAxh8)
+
+- 🐦 [Blu Bird App](https://twitter.com/TallrThanShort)
+- 🗨 [Blurple Chat App](https://discord.com/invite/Hf3ECU7DRv)
+- 🕳 [Crispy](https://crispychat.tech/app)
