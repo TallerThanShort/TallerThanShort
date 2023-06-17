@@ -9,7 +9,7 @@
 
 - 🐦 [Blu Bird App](https://twitter.com/TallrThanShort)
 - 🗨 [Blurple Chat App](https://discord.com/invite/Hf3ECU7DRv)
-- 🕳 [Crispy](https://crispychat.tech/app)
+- 🕳 [Crispy](https://crispy-chat.onrender.com/invite/creak)
 
 #### Stats that some people ask for
 
